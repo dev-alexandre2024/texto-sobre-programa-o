@@ -1,0 +1,19 @@
+body{
+background-image: linear-gradient(to left,blue,red);
+color: white;
+}
+header{
+    background-image: linear-gradient(to left,blue,red);
+    text-align: center;
+    height: 100px;
+    width: 100%;
+}
+header > button{
+ 
+    height: 100px;
+    width: 100px;
+}
+header > button:hover{
+    background-color: aqua;
+ color: blue;
+}
